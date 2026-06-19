@@ -2,6 +2,7 @@
   <img src="assets/banner.png" alt="50 Days of Java Challenge Banner">
 </p>
 
+
 # 🚀 50 Days of Java Challenge
 
 ## About the Challenge
